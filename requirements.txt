@@ -1,0 +1,8 @@
+pytesseract
+opencv-python
+pyttsx3
+google-generativeai
+inputs
+pillow
+keyboard
+AIzaSyAXLnRKlazLHsg3FRKke4SJC1vPfzBpKws
